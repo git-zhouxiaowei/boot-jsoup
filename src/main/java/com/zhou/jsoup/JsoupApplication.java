@@ -1,4 +1,4 @@
-package com.zhou.agriculture;
+package com.zhou.jsoup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,9 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-public class AgricultureApplication{
+public class JsoupApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AgricultureApplication.class, args);
+        SpringApplication.run(JsoupApplication.class, args);
     }
 }

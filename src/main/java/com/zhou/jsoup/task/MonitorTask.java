@@ -1,4 +1,4 @@
-package com.zhou.agriculture.task;
+package com.zhou.jsoup.task;
 
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.extra.mail.MailUtil;
